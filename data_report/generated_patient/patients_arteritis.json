@@ -1,0 +1,587 @@
+[
+  {
+    "disease": "Giant Cell Arteritis",
+    "patients": [
+      {
+        "Full name": "Maria Garcia",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Fatigue, loss of appetite, fever, headaches, pain and tenderness over the temples, double vision or visual loss, dizziness, problems with coordination and balance, pain in jaw and tongue.",
+        "Symptom duration": "Approximately two weeks.",
+        "Recent travel history": "None within the past year.",
+        "Medical history": "Previous history of hypertension, osteoarthritis in knees, controlled hypothyroidism, currently on regular medication for these conditions. No known family history of autoimmune disorders.",
+        "Mixed diseases": [
+          "DASH Eating Plan",
+          "Myasthenia Gravis",
+          "Giant Cell Arteritis",
+          "Fatigue",
+          "Chest Injuries and Disorders"
+        ],
+        "Correct disease": "Giant Cell Arteritis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000541"
+      },
+      {
+        "Full name": "Maria Vasquez",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Fatigue, loss of appetite, fever, recurring headaches, pain and tenderness over the temples, double vision or visual loss, dizziness, problems with coordination and balance, pain in jaw and tongue.",
+        "Symptom duration": "Approximately 2 weeks",
+        "Recent travel history": "None significant",
+        "Medical history": "Previous history of hypertension, currently under control through medication. No known allergies to medications.",
+        "Mixed diseases": [
+          "Giant Cell Arteritis",
+          "Rheumatoid Arthritis",
+          "HIV and Infections",
+          "Scleroderma",
+          "Huntington's Disease"
+        ],
+        "Correct disease": "Giant Cell Arteritis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000542"
+      },
+      {
+        "Full name": "Amara Osei",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Fatigue, loss of appetite, fever, recurring headaches, pain and tenderness over the temples, double vision or visual loss, dizziness, problems with coordination and balance, pain in jaw and tongue.",
+        "Symptom duration": "Symptoms have been present for about two weeks.",
+        "Recent travel history": "None within the past year.",
+        "Medical history": "Previous history of osteoarthritis, hypertension, and hypothyroidism. Currently under regular treatment for these conditions. No known allergies to medications.",
+        "Mixed diseases": [
+          "Kidney Transplantation",
+          "Leg Injuries and Disorders",
+          "Falls",
+          "Giant Cell Arteritis",
+          "Neurologic Diseases"
+        ],
+        "Correct disease": "Giant Cell Arteritis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000543"
+      },
+      {
+        "Full name": "Maria Sofia Martinez",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Fatigue, loss of appetite, fever, headaches, pain and tenderness over the temples, double vision or visual loss, dizziness, problems with coordination and balance, pain in jaw and tongue.",
+        "Symptom duration": "Approximately two weeks",
+        "Recent travel history": "None in the past six months",
+        "Medical history": "Previous history of mild hypertension, managed through diet and exercise. No known allergies or significant surgeries. Has experienced arthralgia (joint pain) in the past, but it was intermittent and well-controlled with over-the-counter medication.",
+        "Mixed diseases": [
+          "Giant Cell Arteritis",
+          "Heroin",
+          "Kidney Diseases",
+          "Meningococcal Disease",
+          "Dental Health"
+        ],
+        "Correct disease": "Giant Cell Arteritis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000544"
+      },
+      {
+        "Full name": "Maria del Carmen Garcia",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Fatigue, loss of appetite, fever, recurring headaches, pain and tenderness over the temples, occasional double vision or visual loss, dizziness, problems with coordination and balance, discomfort in jaw and tongue.",
+        "Symptom duration": "Over a month.",
+        "Recent travel history": "None within the past year.",
+        "Medical history": "Previously healthy, but has been experiencing flu-like symptoms for over a month accompanied by recurring headaches and joint pain. No known allergies. Regularly takes medication for hypertension.",
+        "Mixed diseases": [
+          "Hip Replacement",
+          "Vascular Diseases",
+          "Giant Cell Arteritis",
+          "DASH Eating Plan",
+          "Bleeding Disorders"
+        ],
+        "Correct disease": "Giant Cell Arteritis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000545"
+      },
+      {
+        "Full name": "Maria Amparo Lopez",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Fatigue, loss of appetite, fever, recurring headaches, pain and tenderness over the temples, double vision or visual loss, dizziness, problems with coordination and balance, pain in jaw and tongue.",
+        "Symptom duration": "Approximately two weeks.",
+        "Recent travel history": "None within the past year.",
+        "Medical history": "Previous history of osteoarthritis and hypertension, managed through medication. No known allergies or recent hospitalizations.",
+        "Mixed diseases": [
+          "Degenerative Nerve Diseases",
+          "Giant Cell Arteritis",
+          "Brain Diseases",
+          "Newborn Screening",
+          "Heart Transplantation"
+        ],
+        "Correct disease": "Giant Cell Arteritis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000546"
+      },
+      {
+        "Full name": "Maria Fernandes",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Persistent fatigue, loss of appetite, fever, recurring headaches, pain and tenderness over the temples, double vision or visual loss, dizziness, problems with coordination and balance, jaw and tongue pain.",
+        "Symptom duration": "Over a month, initially resembling flu-like symptoms.",
+        "Recent travel history": "None",
+        "Medical history": "Previous history of osteoarthritis in the knees, controlled by medication; hypertension managed with diet and medication. No known allergies.",
+        "Mixed diseases": [
+          "Heart Surgery",
+          "Giant Cell Arteritis",
+          "Atherosclerosis",
+          "Hepatitis C",
+          "Leg Injuries and Disorders"
+        ],
+        "Correct disease": "Giant Cell Arteritis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000547"
+      },
+      {
+        "Full name": "Maria del Carmen Ramirez",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Fatigue, loss of appetite, fever, recurring headaches, pain and tenderness over the temples, occasional double vision or visual loss, dizziness, problems with coordination and balance, pain in jaw and tongue.",
+        "Symptom duration": "Approximately 2 weeks",
+        "Recent travel history": "None within the past year",
+        "Medical history": "Previous history of mild hypertension, controlled with medication. No known allergies to medications. No surgeries or hospitalizations in recent years.",
+        "Mixed diseases": [
+          "VLDL Cholesterol",
+          "Adrenal Gland Disorders",
+          "Giant Cell Arteritis",
+          "Muscle Disorders",
+          "Heart Diseases"
+        ],
+        "Correct disease": "Giant Cell Arteritis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000548"
+      },
+      {
+        "Full name": "Maria Sofia Diaz",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Fatigue, loss of appetite, fever, headaches, pain and tenderness over the temples, double vision or visual loss, dizziness, problems with coordination and balance, pain in the jaw and tongue.",
+        "Symptom duration": "Approximately two weeks.",
+        "Recent travel history": "None in the past six months.",
+        "Medical history": "Previous history of osteoarthritis, hypertension, and hypothyroidism. No known family history of autoimmune disorders.",
+        "Mixed diseases": [
+          "Giant Cell Arteritis",
+          "Deep Vein Thrombosis",
+          "Newborn Screening",
+          "Neurologic Diseases",
+          "Blood Thinners"
+        ],
+        "Correct disease": "Giant Cell Arteritis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000549"
+      },
+      {
+        "Full name": "Maria Sofia Alvarez",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Fatigue, loss of appetite, fever, headaches, pain and tenderness over the temples, double vision or visual loss, dizziness, problems with coordination and balance, pain in jaw and tongue.",
+        "Symptom duration": "Started 3 weeks ago, with symptoms worsening gradually.",
+        "Recent travel history": "None in the past year.",
+        "Medical history": "Suffers from a systemic inflammatory condition affecting arteries, primarily found in the scalp, neck, and arms. The condition often co-occurs with Polymyalgia Rheumatica. Has a history of hypertension and osteoarthritis in the knee joints.",
+        "Mixed diseases": [
+          "Giant Cell Arteritis",
+          "Autoimmune Diseases",
+          "Staphylococcal Infections",
+          "Brain Aneurysm",
+          "Pulmonary Hypertension"
+        ],
+        "Correct disease": "Giant Cell Arteritis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000550"
+      }
+    ]
+  },
+  {
+    "disease": "Polymyalgia Rheumatica",
+    "patients": [
+      {
+        "Full name": "Maria del Carmen Alvarez",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Persistent stiffness in the neck, shoulders, and hips after resting periods, accompanied by intermittent fever, weakness, and significant weight loss. Occasionally experiences headaches and blurred vision.",
+        "Symptom duration": "Gradual onset over several months, though in some cases it can develop overnight.",
+        "Recent travel history": "None relevant to the current condition.",
+        "Medical history": "Suffers from osteoarthritis and hypertension, undergoes regular physical therapy for joint pain management. Has a family history of autoimmune disorders.",
+        "Mixed diseases": [
+          "Polymyalgia Rheumatica",
+          "Retinal Disorders",
+          "Optic Nerve Disorders",
+          "Dental Health",
+          "Thoracic Outlet Syndrome"
+        ],
+        "Correct disease": "Polymyalgia Rheumatica",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000551"
+      },
+      {
+        "Full name": "Maria Gonzalez",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Persistent neck, shoulder, and hip stiffness, occasional fever, weakness, and unexplained weight loss",
+        "Symptom duration": "Gradual onset over the past few months",
+        "Recent travel history": "None relevant to current symptoms",
+        "Medical history": "History of osteoarthritis in multiple joints, high blood pressure, and type 2 diabetes; undergoing regular check-ups and medication for these conditions",
+        "Mixed diseases": [
+          "Health Problems in Pregnancy",
+          "Fatigue",
+          "Polymyalgia Rheumatica",
+          "COVID-19 Vaccines",
+          "Genetic Brain Disorders"
+        ],
+        "Correct disease": "Polymyalgia Rheumatica",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000552"
+      },
+      {
+        "Full name": "Maria Ramirez",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Persistent neck, shoulder, and hip stiffness; occasional fever; weakness; significant weight loss",
+        "Symptom duration": "Gradual onset over several months",
+        "Recent travel history": "None",
+        "Medical history": "Suffers from arthritis in multiple joints; had a minor stroke 5 years ago; well-controlled hypertension; currently under the care of a rheumatologist and cardiologist",
+        "Mixed diseases": [
+          "Knee Replacement",
+          "Sodium",
+          "Polymyalgia Rheumatica",
+          "Emphysema",
+          "Neurologic Diseases"
+        ],
+        "Correct disease": "Polymyalgia Rheumatica",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000553"
+      },
+      {
+        "Full name": "Maria Garcia",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Persistent neck, shoulder, and hip stiffness, occasional fever, weakness, and unexplained weight loss. Stiffness worsens after periods of rest.",
+        "Symptom duration": "Onset was sudden in this case, but the condition can also develop gradually.",
+        "Recent travel history": "None relevant to the current symptoms.",
+        "Medical history": "Suffers from arthritis-like symptoms in various joints, managed with pain relief medication. No previous history of headaches or vision problems.",
+        "Mixed diseases": [
+          "Testicular Disorders",
+          "Polymyalgia Rheumatica",
+          "Gum Disease",
+          "HDL: The Good Cholesterol",
+          "Respiratory Syncytial Virus Infections"
+        ],
+        "Correct disease": "Polymyalgia Rheumatica",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000554"
+      },
+      {
+        "Full name": "Maria Gutierrez",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Neck, shoulder, and hip stiffness upon waking, fever, weakness, weight loss",
+        "Symptom duration": "Gradual onset over several weeks",
+        "Recent travel history": "None in the past year",
+        "Medical history": "Suffers from osteoarthritis, hypertension, and type 2 diabetes. Has undergone knee replacement surgery 5 years ago",
+        "Mixed diseases": [
+          "Anesthesia",
+          "Menopause",
+          "Lymphatic Diseases",
+          "Angioplasty",
+          "Polymyalgia Rheumatica"
+        ],
+        "Correct disease": "Polymyalgia Rheumatica",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000555"
+      },
+      {
+        "Full name": "Maria Rodriguez",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Persistent neck, shoulder, and hip stiffness; occasional fever; feeling of weakness; noticeable weight loss",
+        "Symptom duration": "Overnight onset in some cases, gradual in others",
+        "Recent travel history": "None significant",
+        "Medical history": "Previous history of osteoarthritis, hypertension, and type 2 diabetes; underwent total knee replacement surgery 5 years ago",
+        "Mixed diseases": [
+          "Low Blood Pressure",
+          "Raynaud Phenomenon",
+          "Optic Nerve Disorders",
+          "Polymyalgia Rheumatica",
+          "Hemorrhagic Stroke"
+        ],
+        "Correct disease": "Polymyalgia Rheumatica",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000556"
+      },
+      {
+        "Full name": "Maria Fernandes",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Persistent neck, shoulder, and hip stiffness after periods of rest; occasional fever, weakness, and unexplained weight loss",
+        "Symptom duration": "Gradual onset over the past few months",
+        "Recent travel history": "None significant",
+        "Medical history": "Suffers from arthritis in multiple joints, controlled with regular medication; underwent hip replacement surgery five years ago; occasional hypertension",
+        "Mixed diseases": [
+          "Degenerative Nerve Diseases",
+          "Friedreich Ataxia",
+          "Polymyalgia Rheumatica",
+          "Rh Incompatibility",
+          "Meningococcal Disease"
+        ],
+        "Correct disease": "Polymyalgia Rheumatica",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000557"
+      },
+      {
+        "Full name": "Maria Ramirez",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Persistent neck, shoulder, and hip stiffness upon waking; occasional fever, weakness, and unexplained weight loss",
+        "Symptom duration": "Gradual onset over several weeks",
+        "Recent travel history": "None",
+        "Medical history": "Previous history of osteoarthritis, hypertension, and hypothyroidism; currently managing these conditions with prescribed medications",
+        "Mixed diseases": [
+          "Polymyalgia Rheumatica",
+          "Charcot-Marie-Tooth Disease",
+          "Addison Disease",
+          "Cardiac Rehabilitation",
+          "Heart Surgery"
+        ],
+        "Correct disease": "Polymyalgia Rheumatica",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000558"
+      },
+      {
+        "Full name": "Maria Sanchez",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Persistent neck, shoulder, and hip stiffness; occasional low-grade fever; noticeable weight loss; weakness",
+        "Symptom duration": "Gradual onset over several weeks",
+        "Recent travel history": "None",
+        "Medical history": "Suffers from occasional migraines, controlled with medication; underwent a hysterectomy ten years ago; currently managing osteoporosis with calcium and vitamin D supplements",
+        "Mixed diseases": [
+          "Testicular Disorders",
+          "Blood Clots",
+          "Optic Nerve Disorders",
+          "Polymyalgia Rheumatica",
+          "HDL: The Good Cholesterol"
+        ],
+        "Correct disease": "Polymyalgia Rheumatica",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000559"
+      },
+      {
+        "Full name": "Amina Abdulrahman",
+        "Age": "62",
+        "Gender": "Female",
+        "Symptoms": "Stiffness in neck, shoulders, and hips, fever, weakness, weight loss",
+        "Symptom duration": "Onset occurred overnight for Amina, but it can also be gradual",
+        "Recent travel history": "None within the past year",
+        "Medical history": "Suffered from arthritis in the past, no known allergies or significant surgeries",
+        "Mixed diseases": [
+          "Atrial Fibrillation",
+          "Polymyalgia Rheumatica",
+          "Kidney Transplantation",
+          "Benefits of Exercise",
+          "Lymphatic Diseases"
+        ],
+        "Correct disease": "Polymyalgia Rheumatica",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000560"
+      }
+    ]
+  },
+  {
+    "disease": "Vasculitis",
+    "patients": [
+      {
+        "Full name": "Jamal Patel",
+        "Age": "42",
+        "Gender": "Male",
+        "Symptoms": "Fever, general sense of feeling unwell, swelling in various parts of the body",
+        "Symptom duration": "Approximately two weeks",
+        "Recent travel history": "None (domestic resident)",
+        "Medical history": "Suffers from a chronic autoimmune disorder, currently undergoing treatment with immunosuppressive medication, has a history of hypertension and is a smoker.",
+        "Mixed diseases": [
+          "Finger Injuries and Disorders",
+          "High Blood Pressure in Pregnancy",
+          "Mitral Valve Prolapse",
+          "Blood Pressure Medicines",
+          "Vasculitis"
+        ],
+        "Correct disease": "Vasculitis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000561"
+      },
+      {
+        "Full name": "Maria Ramirez",
+        "Age": "45",
+        "Gender": "Female",
+        "Symptoms": "Fever, general feeling of illness, noticeable swelling (particularly in the lower extremities)",
+        "Symptom duration": "Approximately two weeks",
+        "Recent travel history": "None significant",
+        "Medical history": "Suffers from a chronic inflammatory condition affecting her blood vessels, exacerbated by an undiagnosed infection. Previous hospitalizations for similar symptoms. Currently under the care of a cardiovascular specialist and is being closely monitored due to the risk of complications such as vessel narrowing or bursting.",
+        "Mixed diseases": [
+          "VLDL Cholesterol",
+          "Gastrointestinal Bleeding",
+          "Charcot-Marie-Tooth Disease",
+          "Leg Injuries and Disorders",
+          "Vasculitis"
+        ],
+        "Correct disease": "Vasculitis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000562"
+      },
+      {
+        "Full name": "Maria Rodriguez",
+        "Age": "45",
+        "Gender": "Female",
+        "Symptoms": "Fever (102\u00b0F), persistent body swelling (mainly limbs), general feeling of illness (fatigue, weakness)",
+        "Symptom duration": "Approximately two weeks",
+        "Recent travel history": "None in the past six months",
+        "Medical history": "Previously diagnosed with hypertension, currently under treatment; no known allergies to medications; non-smoker; occasional light drinker.",
+        "Mixed diseases": [
+          "Granulomatosis with Polyangiitis",
+          "Sleep Disorders",
+          "Vasculitis",
+          "Falls",
+          "Stroke"
+        ],
+        "Correct disease": "Vasculitis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000563"
+      },
+      {
+        "Full name": "Amira Patel",
+        "Age": "50",
+        "Gender": "Female",
+        "Symptoms": "Recurring fever, general feelings of illness, swelling in various parts of the body",
+        "Symptom duration": "Approximately two weeks",
+        "Recent travel history": "None (lives in a suburban area)",
+        "Medical history": "Suffers from occasional allergies, no known heart or lung diseases, under control with regular medication and lifestyle changes. No recent hospitalizations.",
+        "Mixed diseases": [
+          "Bacterial Infections",
+          "Neurologic Diseases",
+          "Vasculitis",
+          "Finger Injuries and Disorders",
+          "Heart Disease in Women"
+        ],
+        "Correct disease": "Vasculitis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000564"
+      },
+      {
+        "Full name": "Maria Ramirez",
+        "Age": "58",
+        "Gender": "Female",
+        "Symptoms": "Fever, general feeling of illness, swelling in the affected area",
+        "Symptom duration": "Approximately one week",
+        "Recent travel history": "None (resides in Los Angeles, California)",
+        "Medical history": "Suffers from high blood pressure and has a family history of cardiovascular diseases. Has been taking a new medication for arthritis but reports no improvements in symptoms. Recently had an infection treated with antibiotics.",
+        "Mixed diseases": [
+          "Esophagus Disorders",
+          "Dental Health",
+          "Emphysema",
+          "Heart Health Tests",
+          "Vasculitis"
+        ],
+        "Correct disease": "Vasculitis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000565"
+      },
+      {
+        "Full name": "Aisha Patel",
+        "Age": "45",
+        "Gender": "Female",
+        "Symptoms": "Fever (102\u00b0F), persistent swelling in the right leg, general feeling of malaise",
+        "Symptom duration": "Approximately two weeks",
+        "Recent travel history": "None",
+        "Medical history": "Suffers from occasional allergic reactions, under control with prescribed antihistamines; no known heart or lung conditions",
+        "Mixed diseases": [
+          "Myasthenia Gravis",
+          "Peripheral Nerve Disorders",
+          "Vasculitis",
+          "Neurologic Diseases",
+          "Aortic Aneurysm"
+        ],
+        "Correct disease": "Vasculitis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000566"
+      },
+      {
+        "Full name": "Maria Amparo Diaz",
+        "Age": "48",
+        "Gender": "Female",
+        "Symptoms": "Recurring fever, persistent body swelling, feeling generally unwell",
+        "Symptom duration": "Approximately two weeks",
+        "Recent travel history": "None in the past six months",
+        "Medical history": "A history of hypertension and a recent course of antibiotics for a urinary tract infection. No known allergies to medications.",
+        "Mixed diseases": [
+          "Benefits of Exercise",
+          "Vasculitis",
+          "Coronary Artery Bypass Surgery",
+          "Brain Aneurysm",
+          "HDL: The Good Cholesterol"
+        ],
+        "Correct disease": "Vasculitis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000567"
+      },
+      {
+        "Full name": "Kofi Adebayo",
+        "Age": "45",
+        "Gender": "Male",
+        "Symptoms": "Recurring high fever, swelling in the legs, a general feeling of illness",
+        "Symptom duration": "Approximately two weeks",
+        "Recent travel history": "None relevant",
+        "Medical history": "Suffers from recurrent infections, currently on immunosuppressive medication for an unspecified autoimmune disorder",
+        "Mixed diseases": [
+          "Vasculitis",
+          "Blood Pressure Medicines",
+          "Optic Nerve Disorders",
+          "Genetic Brain Disorders",
+          "Peripheral Arterial Disease"
+        ],
+        "Correct disease": "Vasculitis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000568"
+      },
+      {
+        "Full name": "Roshni Patel",
+        "Age": "45",
+        "Gender": "Female",
+        "Symptoms": "Persistent fever, noticeable swelling in the affected areas, feeling unwell generally",
+        "Symptom duration": "2 weeks",
+        "Recent travel history": "None relevant to current condition",
+        "Medical history": "Previously diagnosed with an autoimmune disorder, currently under treatment for it, has a history of allergic reactions to certain medications",
+        "Mixed diseases": [
+          "Meningococcal Disease",
+          "Pulmonary Hypertension",
+          "Atherosclerosis",
+          "Hemorrhoids",
+          "Vasculitis"
+        ],
+        "Correct disease": "Vasculitis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000569"
+      },
+      {
+        "Full name": "Maria Ramirez",
+        "Age": "52",
+        "Gender": "Female",
+        "Symptoms": "Recurring fever, noticeable swelling in the lower extremities, and a persistent feeling of illness.",
+        "Symptom duration": "Approximately two weeks.",
+        "Recent travel history": "None within the past year.",
+        "Medical history": "Suffers from hypertension and has a history of allergic reactions to certain medications. Has been treated for a urinary tract infection three months ago.",
+        "Mixed diseases": [
+          "Electrical Injuries",
+          "Heart Diseases",
+          "Vasculitis",
+          "Chest Injuries and Disorders",
+          "Heart Attack"
+        ],
+        "Correct disease": "Vasculitis",
+        "Diagnosis cause": "arteritis",
+        "patient_number": "0000570"
+      }
+    ]
+  }
+]

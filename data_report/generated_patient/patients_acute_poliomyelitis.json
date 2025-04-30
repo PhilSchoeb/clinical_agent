@@ -1,0 +1,147 @@
+[
+  {
+    "disease": "Polio and Post-Polio Syndrome",
+    "patients": [
+      {
+        "Full name": "Sofia Patel",
+        "Age": "42",
+        "Gender": "Female",
+        "Symptoms": "Sore throat, fever, fatigue, nausea, headache, stomach pain (duration: 3 days)",
+        "Symptom duration": "",
+        "Recent travel history": "Recent trip to India for a family wedding",
+        "Medical history": "None relevant to the disease",
+        "Mixed diseases": [
+          "HIV and Infections",
+          "Chickenpox",
+          "Colonic Diseases",
+          "Paralysis",
+          "Bacterial Infections"
+        ],
+        "Correct disease": "Paralysis",
+        "Diagnosis cause": "acute poliomyelitis",
+        "patient_number": "0001320",
+        "altName": [
+          "Polio and Post-Polio Syndrome",
+          "Infantile Paralysis",
+          "PPS",
+          "Paralysis",
+          "Infantile",
+          "Poliomyelitis",
+          "Post-polio Syndrome"
+        ]
+      },
+      {
+        "Full name": "Kofi Mensah",
+        "Age": "25",
+        "Gender": "Male",
+        "Symptoms": "Flu-like symptoms (sore throat, fever, fatigue) with no paralysis or weakness (duration: 5 days)",
+        "Symptom duration": "",
+        "Recent travel history": "Recently returned from a mission trip in Africa",
+        "Medical history": "Hypertension, managed with medication",
+        "Mixed diseases": [
+          "Dandruff, Cradle Cap, and Other Scalp Conditions",
+          "HIV",
+          "Post-polio Syndrome",
+          "Trichomoniasis",
+          "Pulmonary Rehabilitation"
+        ],
+        "Correct disease": "Post-polio Syndrome",
+        "Diagnosis cause": "acute poliomyelitis",
+        "patient_number": "0001321",
+        "altName": [
+          "Polio and Post-Polio Syndrome",
+          "Infantile Paralysis",
+          "PPS",
+          "Paralysis",
+          "Infantile",
+          "Poliomyelitis",
+          "Post-polio Syndrome"
+        ]
+      },
+      {
+        "Full name": "Leila Aliyeva",
+        "Age": "8",
+        "Gender": "Female",
+        "Symptoms": "Sore throat, fever, fatigue, nausea, headache (duration: unknown)",
+        "Symptom duration": "",
+        "Recent travel history": "Recently traveled to a country where polio is common",
+        "Medical history": "None relevant to the disease",
+        "Mixed diseases": [
+          "Ovarian Cancer",
+          "Infantile Paralysis",
+          "Infant and Newborn Nutrition",
+          "HIV in Women",
+          "Dandruff, Cradle Cap, and Other Scalp Conditions"
+        ],
+        "Correct disease": "Infantile Paralysis",
+        "Diagnosis cause": "acute poliomyelitis",
+        "patient_number": "0001322",
+        "altName": [
+          "Polio and Post-Polio Syndrome",
+          "Infantile Paralysis",
+          "PPS",
+          "Paralysis",
+          "Infantile",
+          "Poliomyelitis",
+          "Post-polio Syndrome"
+        ]
+      },
+      {
+        "Full name": "Ramesh Rao",
+        "Age": "55",
+        "Gender": "Male",
+        "Symptoms": "Weakness in legs and arms, fatigue, muscle pain (duration: several weeks)",
+        "Symptom duration": "",
+        "Recent travel history": "Recently traveled to a country where polio is common for work",
+        "Medical history": "Post-polio syndrome (PPS)",
+        "Mixed diseases": [
+          "Polio and Post-Polio Syndrome",
+          "Alcohol Use Disorder (AUD)",
+          "Teen Sexual Health",
+          "C. diff Infections",
+          "Body Lice"
+        ],
+        "Correct disease": "Polio and Post-Polio Syndrome",
+        "Diagnosis cause": "acute poliomyelitis",
+        "patient_number": "0001323",
+        "altName": [
+          "Polio and Post-Polio Syndrome",
+          "Infantile Paralysis",
+          "PPS",
+          "Paralysis",
+          "Infantile",
+          "Poliomyelitis",
+          "Post-polio Syndrome"
+        ]
+      },
+      {
+        "Full name": "Fatima Hassan",
+        "Age": "30",
+        "Gender": "Female",
+        "Symptoms": "None (asymptomatic carrier)",
+        "Symptom duration": "",
+        "Recent travel history": "Recently traveled to a country where polio is common",
+        "Medical history": "Vaccinated against polio as a child",
+        "Mixed diseases": [
+          "Pubic Lice",
+          "Infantile Paralysis",
+          "Streptococcal Infections",
+          "Whooping Cough",
+          "Sepsis"
+        ],
+        "Correct disease": "Infantile Paralysis",
+        "Diagnosis cause": "acute poliomyelitis",
+        "patient_number": "0001324",
+        "altName": [
+          "Polio and Post-Polio Syndrome",
+          "Infantile Paralysis",
+          "PPS",
+          "Paralysis",
+          "Infantile",
+          "Poliomyelitis",
+          "Post-polio Syndrome"
+        ]
+      }
+    ]
+  }
+]

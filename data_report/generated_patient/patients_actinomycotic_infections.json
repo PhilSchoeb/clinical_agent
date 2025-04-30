@@ -1,0 +1,122 @@
+[
+  {
+    "disease": "Skin Infections",
+    "patients": [
+      {
+        "Full name": "Fatima Patel",
+        "Age": "42",
+        "Gender": "Female",
+        "Symptoms": "Redness, swelling, and itching around the affected area; mild pain when touched",
+        "Symptom duration": "3 days",
+        "Recent travel history": "None",
+        "Medical history": "Hypertension, managed with medication",
+        "Mixed diseases": [
+          "Molluscum Contagiosum",
+          "Occupational Health for Health Care Providers",
+          "Pinworms",
+          "Male Infertility",
+          "Crohn's Disease"
+        ],
+        "Correct disease": "Molluscum Contagiosum",
+        "Diagnosis cause": "actinomycotic infections",
+        "patient_number": "0000721",
+        "altName": [
+          "Skin Infections",
+          "Molluscum Contagiosum"
+        ]
+      },
+      {
+        "Full name": "Carlos Rodriguez",
+        "Age": "29",
+        "Gender": "Male",
+        "Symptoms": "Pus-filled abscess on arm, accompanied by redness and swelling; moderate pain",
+        "Symptom duration": "1 week",
+        "Recent travel history": "Recently returned from a trip to Mexico",
+        "Medical history": "None",
+        "Mixed diseases": [
+          "Autoimmune Diseases",
+          "Molluscum Contagiosum",
+          "HIV: PrEP and PEP",
+          "Jaundice",
+          "Plague"
+        ],
+        "Correct disease": "Molluscum Contagiosum",
+        "Diagnosis cause": "actinomycotic infections",
+        "patient_number": "0000722",
+        "altName": [
+          "Skin Infections",
+          "Molluscum Contagiosum"
+        ]
+      },
+      {
+        "Full name": "Sophia Lee",
+        "Age": "65",
+        "Gender": "Female",
+        "Symptoms": "Widespread rash on arms, legs, and torso; mild itching; fatigue",
+        "Symptom duration": "2 weeks",
+        "Recent travel history": "Recently hospitalized for a urinary tract infection",
+        "Medical history": "Diabetes, hypertension, hyperlipidemia",
+        "Mixed diseases": [
+          "Hemorrhagic Fevers",
+          "Foot Injuries and Disorders",
+          "Breast Diseases",
+          "Dandruff, Cradle Cap, and Other Scalp Conditions",
+          "Skin Infections"
+        ],
+        "Correct disease": "Skin Infections",
+        "Diagnosis cause": "actinomycotic infections",
+        "patient_number": "0000723",
+        "altName": [
+          "Skin Infections",
+          "Molluscum Contagiosum"
+        ]
+      },
+      {
+        "Full name": "Jamal Ali",
+        "Age": "35",
+        "Gender": "Male",
+        "Symptoms": "Redness and swelling around the groin area; mild itching; discomfort when sitting or lying down",
+        "Symptom duration": "5 days",
+        "Recent travel history": "Recently spent a weekend camping with friends",
+        "Medical history": "None",
+        "Mixed diseases": [
+          "Cat Scratch Disease",
+          "Ovarian Cancer",
+          "Streptococcal Infections",
+          "Skin Infections",
+          "E. Coli Infections"
+        ],
+        "Correct disease": "Skin Infections",
+        "Diagnosis cause": "actinomycotic infections",
+        "patient_number": "0000724",
+        "altName": [
+          "Skin Infections",
+          "Molluscum Contagiosum"
+        ]
+      },
+      {
+        "Full name": "Emily Chen",
+        "Age": "58",
+        "Gender": "Female",
+        "Symptoms": "Small, itchy blisters on hands and feet; mild pain when walking or standing",
+        "Symptom duration": "1 month",
+        "Recent travel history": "Recently returned from a cruise in the Caribbean",
+        "Medical history": "Rheumatoid arthritis, managed with medication",
+        "Mixed diseases": [
+          "Pinworms",
+          "Critical Care",
+          "Skin Infections",
+          "Pelvic Inflammatory Disease",
+          "Shingles"
+        ],
+        "Correct disease": "Skin Infections",
+        "Diagnosis cause": "actinomycotic infections",
+        "patient_number": "0000725",
+        "altName": [
+          "Skin Infections",
+          "Molluscum Contagiosum"
+        ]
+      }
+    ]
+  }
+]

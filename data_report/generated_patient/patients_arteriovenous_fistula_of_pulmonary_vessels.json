@@ -1,0 +1,392 @@
+[
+  {
+    "disease": "Arteriovenous Malformations",
+    "patients": [
+      {
+        "Full name": "Sanjay Patel",
+        "Age": "42",
+        "Gender": "Male",
+        "Symptoms": "Seizures, recurring headaches, muscle weakness in the left arm, vision problems in the right eye, speech difficulties, dizziness",
+        "Symptom duration": "Approximately 6 months",
+        "Recent travel history": "None relevant to symptoms",
+        "Medical history": "Suffers from a complex vascular abnormality affecting the brain, possibly an Arteriovenous Malformation (AVM), with no known cause. The patient has had several episodes of hemorrhage, resulting in minor strokes and persistent neurological symptoms. Previous imaging tests have revealed an irregular tangle of blood vessels in the brain, causing rapid blood flow and increased pressure within these abnormal vessels. Currently undergoing monitoring for any signs of further bleeding, while considering various treatment options such as medication or surgical intervention to manage symptoms and reduce risk.",
+        "Mixed diseases": [
+          "Heart Transplantation",
+          "Dental Health",
+          "Brain Aneurysm",
+          "Arteriovenous Malformations",
+          "Myasthenia Gravis"
+        ],
+        "Correct disease": "Arteriovenous Malformations",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002031"
+      },
+      {
+        "Full name": "Adewale Oluwatobi",
+        "Age": "35",
+        "Gender": "Male",
+        "Symptoms": "Seizures, persistent headache, muscle weakness in the left arm, vision problems in the left eye, occasional dizziness.",
+        "Symptom duration": "Approximately three months.",
+        "Recent travel history": "None, a local resident of New York City for the past 10 years.",
+        "Medical history": "No known significant medical issues; undergoes routine check-ups annually. Diagnosed with hypertension two years ago, currently managed through medication and lifestyle changes.",
+        "Mixed diseases": [
+          "Respiratory Failure",
+          "Vaginal Bleeding",
+          "Granulomatosis with Polyangiitis",
+          "Arteriovenous Malformations",
+          "Coronary Artery Bypass Surgery"
+        ],
+        "Correct disease": "Arteriovenous Malformations",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002032"
+      },
+      {
+        "Full name": "Aaliyah Patel",
+        "Age": "30",
+        "Gender": "Female",
+        "Symptoms": "Seizures, recurring headaches, occasional vision problems, mild muscle weakness in the left arm.",
+        "Symptom duration": "The seizures have been occurring for about a year, while the other symptoms are more recent (less than 6 months).",
+        "Recent travel history": "None relevant to the current condition.",
+        "Medical history": "Aaliyah has no known significant medical history, but she has had a lifelong issue with migraines and occasional seizures, which have become more frequent recently. She was born in India and immigrated to the United States at the age of 10. She is currently living in New York City.",
+        "Mixed diseases": [
+          "Staphylococcal Infections",
+          "Cardiomyopathy",
+          "Arteriovenous Malformations",
+          "Finger Injuries and Disorders",
+          "Retinal Disorders"
+        ],
+        "Correct disease": "Arteriovenous Malformations",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002033"
+      },
+      {
+        "Full name": "Lakshmi Patel",
+        "Age": "42",
+        "Gender": "Female",
+        "Symptoms": "Recently, Lakshmi has been experiencing recurrent seizures, severe headaches, and intermittent vision problems in her left eye. She also complains of muscle weakness in her right arm and occasional difficulty with movement and speech.",
+        "Symptom duration": "The symptoms have been persistent for the past three months.",
+        "Recent travel history": "Lakshmi has not traveled outside her city in the last year.",
+        "Medical history": "Lakshmi's medical history is otherwise unremarkable, with no significant past surgeries or chronic conditions. She is a non-smoker and occasional drinker.",
+        "Mixed diseases": [
+          "How to Prevent Heart Disease",
+          "Platelet Disorders",
+          "Kidney Diseases",
+          "Adrenal Gland Disorders",
+          "Arteriovenous Malformations"
+        ],
+        "Correct disease": "Arteriovenous Malformations",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002034"
+      },
+      {
+        "Full name": "Ranjana Sharma",
+        "Age": "42",
+        "Gender": "Female",
+        "Symptoms": "Seizures, recurring headaches, muscle weakness in the left arm, vision problems in the right eye, confusion, and dizziness.",
+        "Symptom duration": "Approximately 6 months",
+        "Recent travel history": "None relevant to current symptoms",
+        "Medical history": "Suffers from a vascular abnormality, characterized by an irregular network of arteries and veins, primarily affecting the left parietal lobe of her brain. The rapid blood flow through these vessels may be causing tissue damage and increased pressure in the affected area, leading to her reported symptoms. MRI scans have confirmed the presence of this abnormality, and she is currently undergoing regular monitoring and evaluation for potential treatment options, which may include medication or surgery.",
+        "Mixed diseases": [
+          "Huntington's Disease",
+          "Autonomic Nervous System Disorders",
+          "Arteriovenous Malformations",
+          "Thoracic Outlet Syndrome",
+          "High Blood Pressure"
+        ],
+        "Correct disease": "Arteriovenous Malformations",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002035"
+      },
+      {
+        "Full name": "Fatima Ahmed",
+        "Age": "35",
+        "Gender": "Female",
+        "Symptoms": "Occasional seizures, recurring headaches, muscle weakness in the left arm, vision problems in the left eye, dizziness, and loss of consciousness on occasion.",
+        "Symptom duration": "The symptoms have been present for the past 6 months, with a gradual increase in frequency over time.",
+        "Recent travel history": "None notable",
+        "Medical history": "Fatima has a history of hypertension and underwent a minor brain surgery due to a congenital abnormality about 10 years ago. She is currently on medication for her hypertension and has been managing it effectively. However, the recent emergence of these symptoms has led her to seek further medical evaluation.",
+        "Mixed diseases": [
+          "Ischemic Stroke",
+          "CPR",
+          "Eosinophilic Disorders",
+          "Arteriovenous Malformations",
+          "Coronary Artery Bypass Surgery"
+        ],
+        "Correct disease": "Arteriovenous Malformations",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002036"
+      },
+      {
+        "Full name": "Kofi Adomako",
+        "Age": "35",
+        "Gender": "Male",
+        "Symptoms": "Recurrent seizures, mild headache, occasional vision problems, muscle weakness in left arm, difficulty with speech, dizziness, confusion.",
+        "Symptom duration": "Approximately 6 months",
+        "Recent travel history": "None significant",
+        "Medical history": "Born without any known vascular abnormalities. Diagnosed with an AVM (Arteriovenous Malformation) in the brain region controlling motor functions and speech after exhibiting symptoms mentioned above. The rapid flow of blood through the malformed vessels is suspected to be the cause of the tissue damage leading to the observed symptoms. Currently under observation, undergoing regular imaging tests for monitoring the progression or stability of the condition.",
+        "Mixed diseases": [
+          "Angina",
+          "Aneurysms",
+          "Chest Pain",
+          "Arteriovenous Malformations",
+          "Heart Health Tests"
+        ],
+        "Correct disease": "Arteriovenous Malformations",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002037"
+      },
+      {
+        "Full name": "Amelia Patel",
+        "Age": "32",
+        "Gender": "Female",
+        "Symptoms": "Recently experiencing seizures, persistent headaches, and vision problems in the left eye.",
+        "Symptom duration": "The seizures have been occurring for about a month, while the headaches and vision issues have persisted for several weeks.",
+        "Recent travel history": "None relevant to the current symptoms.",
+        "Medical history": "Suffers from hypertension, has undergone appendectomy at age 18, and has no previous neurological conditions or surgeries.",
+        "Mixed diseases": [
+          "Arrhythmia",
+          "Brain Diseases",
+          "Arteriovenous Malformations",
+          "High Blood Pressure",
+          "Marfan Syndrome"
+        ],
+        "Correct disease": "Arteriovenous Malformations",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002038"
+      },
+      {
+        "Full name": "Rashidah Ibrahim",
+        "Age": "36",
+        "Gender": "Female",
+        "Symptoms": "Seizures, recurring headaches, vision problems in the left eye, muscle weakness in the right arm, difficulty with speech and movement, occasional dizziness, and episodes of confusion.",
+        "Symptom duration": "Approximately 3 years, with symptoms gradually worsening over time.",
+        "Recent travel history": "None significant to report.",
+        "Medical history": "Normal blood pressure until recently, with no notable medical conditions or surgeries in the past. A series of diagnostic tests (CT scans, MRI, and cerebral angiography) have revealed an abnormal tangle of arteries and veins in her brain, suspected to be an Arteriovenous Malformation (AVM). The patient is being closely monitored for any signs of increased risk of hemorrhage and may require surgery if deemed necessary.",
+        "Mixed diseases": [
+          "Arteriovenous Malformations",
+          "Vaginal Bleeding",
+          "Hemorrhoids",
+          "Giant Cell Arteritis",
+          "Oxygen Therapy"
+        ],
+        "Correct disease": "Arteriovenous Malformations",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002039"
+      },
+      {
+        "Full name": "Maria Patel",
+        "Age": "42",
+        "Gender": "Female",
+        "Symptoms": "Recently experiencing seizures, persistent headaches, muscle weakness in the left arm, and blurred vision in her right eye.",
+        "Symptom duration": "The symptoms have been occurring intermittently for the past three months.",
+        "Recent travel history": "Maria has not traveled outside of the country in the past year.",
+        "Medical history": "Suffers from high blood pressure, has a family history of brain disorders, and underwent a minor surgical procedure six months ago to remove a benign brain tumor.",
+        "Mixed diseases": [
+          "Testicular Disorders",
+          "Emphysema",
+          "Arteriovenous Malformations",
+          "Peripheral Nerve Disorders",
+          "Mitral Valve Prolapse"
+        ],
+        "Correct disease": "Arteriovenous Malformations",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002040"
+      }
+    ]
+  },
+  {
+    "disease": "Fistulas",
+    "patients": [
+      {
+        "Full name": "Rama Patel",
+        "Age": "53",
+        "Gender": "Female",
+        "Symptoms": "Persistent cough, difficulty swallowing, recurring fevers, and abdominal pain",
+        "Symptom duration": "Approximately six months",
+        "Recent travel history": "None significant",
+        "Medical history": "Suffered from a severe infection two years ago, had surgery for an undisclosed condition four years back, diagnosed with Crohn's disease ten years ago",
+        "Mixed diseases": [
+          "Angina",
+          "Fistulas",
+          "Arrhythmia",
+          "Respiratory Syncytial Virus Infections",
+          "Endocarditis"
+        ],
+        "Correct disease": "Fistulas",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002041"
+      },
+      {
+        "Full name": "Maria Amparo Ramirez",
+        "Age": "48",
+        "Gender": "Female",
+        "Symptoms": "Persistent coughing, difficulty swallowing, and occasional vomiting",
+        "Symptom duration": "Over a month",
+        "Recent travel history": "None in the past six months",
+        "Medical history": "Suffered from Crohn's disease for the last 10 years, underwent multiple abdominal surgeries due to complications. Currently on medication management to control symptoms.",
+        "Mixed diseases": [
+          "Cerebellar Disorders",
+          "Heart Surgery",
+          "Fistulas",
+          "Cardiomyopathy",
+          "High Blood Pressure in Pregnancy"
+        ],
+        "Correct disease": "Fistulas",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002042"
+      },
+      {
+        "Full name": "Aaliyah Patel",
+        "Age": "32",
+        "Gender": "Female",
+        "Symptoms": "Persistent coughing, difficulty swallowing, and recurrent fevers.",
+        "Symptom duration": "Approximately 6 months.",
+        "Recent travel history": "None within the past year.",
+        "Medical history": "Suffered an injury to the chest area in a car accident 5 years ago, had surgery for a minor infection 2 years ago, and was diagnosed with inflammatory bowel disease (IBD) 4 years ago, currently managed through medication and dietary changes.",
+        "Mixed diseases": [
+          "Deep Vein Thrombosis",
+          "Neurologic Diseases",
+          "Paget's Disease of Bone",
+          "Nose Injuries and Disorders",
+          "Fistulas"
+        ],
+        "Correct disease": "Fistulas",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002043"
+      },
+      {
+        "Full name": "Fatima Ali",
+        "Age": "42",
+        "Gender": "Female",
+        "Symptoms": "Persistent cough, difficulty swallowing, and abdominal pain",
+        "Symptom duration": "Approximately three months",
+        "Recent travel history": "None significant",
+        "Medical history": "Suffered an injury to the chest during a car accident two years ago, has been treated for Crohn's disease for over a decade.",
+        "Mixed diseases": [
+          "Fistulas",
+          "Coronary Artery Bypass Surgery",
+          "Gastrointestinal Bleeding",
+          "Heart Transplantation",
+          "Bacterial Infections"
+        ],
+        "Correct disease": "Fistulas",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002044"
+      },
+      {
+        "Full name": "Fatima Ahmed",
+        "Age": "42",
+        "Gender": "Female",
+        "Symptoms": "Persistent cough, shortness of breath, difficulty swallowing, and recurring abdominal pain.",
+        "Symptom duration": "Approximately 3 months.",
+        "Recent travel history": "None significant.",
+        "Medical history": "Suffered an injury to the chest area during a car accident 6 years ago, had surgery for Crohn's disease 5 years back, and was diagnosed with ulcerative colitis last year.",
+        "Mixed diseases": [
+          "Fistulas",
+          "Polymyalgia Rheumatica",
+          "Atrial Fibrillation",
+          "Health Problems in Pregnancy",
+          "Granulomatosis with Polyangiitis"
+        ],
+        "Correct disease": "Fistulas",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002045"
+      },
+      {
+        "Full name": "Fatima Mohammed",
+        "Age": "38",
+        "Gender": "Female",
+        "Symptoms": "Persistent coughing, difficulty swallowing, and recurring abdominal pain",
+        "Symptom duration": "Approximately three months",
+        "Recent travel history": "None in the past year",
+        "Medical history": "Previous surgery for an unrelated condition, Crohn's disease diagnosed eight years ago, and has been undergoing regular treatment for it.",
+        "Mixed diseases": [
+          "Vasculitis",
+          "Neurologic Diseases",
+          "Lung Diseases",
+          "Thoracic Outlet Syndrome",
+          "Fistulas"
+        ],
+        "Correct disease": "Fistulas",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002046"
+      },
+      {
+        "Full name": "Aisha Patel",
+        "Age": "35",
+        "Gender": "Female",
+        "Symptoms": "Persistent coughing, difficulty swallowing, recurrent fevers, weight loss",
+        "Symptom duration": "Approximately 6 months",
+        "Recent travel history": "None significant",
+        "Medical history": "Suffered an abdominal injury 5 years ago, has been diagnosed with Crohn's disease for the past 10 years",
+        "Mixed diseases": [
+          "Fistulas",
+          "High Cholesterol in Children and Teens",
+          "Pacemakers and Implantable Defibrillators",
+          "Coronary Artery Bypass Surgery",
+          "Vaginal Bleeding"
+        ],
+        "Correct disease": "Fistulas",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002047"
+      },
+      {
+        "Full name": "Fatima Abdullahi",
+        "Age": "42",
+        "Gender": "Female",
+        "Symptoms": "Persistent cough, difficulty swallowing, recurring fever, and unexplained weight loss",
+        "Symptom duration": "Approximately 6 months",
+        "Recent travel history": "None within the past year",
+        "Medical history": "Suffered from Crohn's disease for over a decade, underwent multiple abdominal surgeries due to complications, and has a history of recurring infections",
+        "Mixed diseases": [
+          "Fistulas",
+          "Respiratory Failure",
+          "Health Risks of an Inactive Lifestyle",
+          "Leg Injuries and Disorders",
+          "Pulmonary Embolism"
+        ],
+        "Correct disease": "Fistulas",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002048"
+      },
+      {
+        "Full name": "Fatima Almeida",
+        "Age": "35",
+        "Gender": "Female",
+        "Symptoms": "Persistent coughing, difficulty swallowing, and recurring abdominal pain.",
+        "Symptom duration": "Approximately two months.",
+        "Recent travel history": "None in the last year.",
+        "Medical history": "Diagnosed with Crohn's disease three years ago, underwent a surgery to remove an affected portion of her intestines. She has also had a history of recurring infections, particularly in the respiratory and gastrointestinal tracts.",
+        "Mixed diseases": [
+          "Carotid Artery Disease",
+          "Heroin",
+          "Streptococcal Infections",
+          "Shock",
+          "Fistulas"
+        ],
+        "Correct disease": "Fistulas",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002049"
+      },
+      {
+        "Full name": "Fatima Ahmad",
+        "Age": "35",
+        "Gender": "Female",
+        "Symptoms": "Persistent coughing, difficulty swallowing, and recurring fevers.",
+        "Symptom duration": "Approximately three months.",
+        "Recent travel history": "None in the past year.",
+        "Medical history": "Suffered from a surgery complication two years ago, which led to an infection. Also has a history of autoimmune disorders, specifically Crohn's disease, which has been managed with regular medication and diet control.",
+        "Mixed diseases": [
+          "Fistulas",
+          "Friedreich Ataxia",
+          "Lung Diseases",
+          "Heroin",
+          "Peripheral Arterial Disease"
+        ],
+        "Correct disease": "Fistulas",
+        "Diagnosis cause": "arteriovenous fistula of pulmonary vessels",
+        "patient_number": "0002050"
+      }
+    ]
+  }
+]

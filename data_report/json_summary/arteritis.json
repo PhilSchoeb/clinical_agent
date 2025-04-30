@@ -1,0 +1,29 @@
+{
+  "parsed_data": {
+    "titles": [
+      {
+        "title": "Giant Cell Arteritis",
+        "altTitle": "Temporal Arteritis",
+        "FullSummary": "Giant cell arteritis is a disorder that causes inflammation of your arteries, usually in the scalp, neck, and arms. It narrows the arteries, which keeps blood from flowing well. Giant cell arteritis often occurs with another disorder called polymyalgia rheumatica. Both are more common in women than in men. They almost always affect people over the age of 50.Early symptoms of giant cell arteritis resemble the flu: fatigue, loss of appetite, and fever. Other symptoms include:HeadachesPain and tenderness over the templesDouble vision or visual loss, dizzinessProblems with coordination and balancePain in your jaw and tongueYour doctor will make the diagnosis based on your medical history, symptoms, and a physical exam. There is no specific test for giant cell arteritis, but you may have tests that measure inflammation.Treatment is usually with corticosteroids. Early treatment is important; otherwise there is a risk of permanent vision loss or stroke. However, when properly treated, giant cell arteritis rarely comes back.NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+        "mesh": "Giant Cell Arteritis",
+        "groupName": "Blood, Heart and Circulation,Immune System",
+        "cause_diagnosis": "arteritis"
+      },
+      {
+        "title": "Polymyalgia Rheumatica",
+        "FullSummary": "Polymyalgia rheumatica is a disorder that causes muscle pain and stiffness in your neck, shoulders, and hips. It is most common in women and almost always occurs in people over 50. The main symptom is stiffness after resting. Other symptoms include fever, weakness and weight loss. In some cases, polymyalgia rheumatica develops overnight. In others, it is gradual.The cause of polymyalgia rheumatica is unknown. There is no specific test for it. Your doctor will use your medical history, symptoms, and a physical exam to make the diagnosis. Lab tests for inflammation may help confirm the diagnosis.Polymyalgia rheumatica sometimes occurs along with giant cell arteritis, a condition that causes swelling of the arteries in your head. Symptoms include headaches and blurred vision. Doctors often prescribe prednisone, a steroid medicine, for both conditions. With treatment, polymyalgia rheumatica usually disappears in a day or two. Without treatment, it usually goes away after a year or more. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+        "mesh": "Polymyalgia Rheumatica",
+        "groupName": "Bones, Joints and Muscles,Skin, Hair and Nails",
+        "cause_diagnosis": "arteritis"
+      },
+      {
+        "title": "Vasculitis",
+        "altTitle": "Angiitis",
+        "FullSummary": "Vasculitis is an inflammation of the blood vessels. It happens when the body's immune system attacks the blood vessel by mistake. It can happen because of an infection, a medicine, or another disease. The cause is often unknown.Vasculitis can affect arteries, veins and capillaries. Arteries are vessels that carry blood from the heart to the body's organs. Veins are the vessels that carry blood back to the heart. Capillaries are tiny blood vessels that connect the small arteries and veins. When a blood vessel becomes inflamed, it can: Narrow, making it more difficult for blood to get through. Close off completely so that blood can't get through. Stretch and weaken so much that it bulges. The bulge is called an aneurysm. If it bursts, it can cause dangerous bleeding inside the body.Symptoms of vasculitis can vary, but usually include fever, swelling and a general sense of feeling ill. The main goal of treatment is to stop the inflammation. Steroids and other medicines to stop inflammation are often helpful.NIH: National Heart, Lung, and Blood Institute",
+        "mesh": "Vasculitis",
+        "groupName": "Blood, Heart and Circulation",
+        "cause_diagnosis": "arteritis"
+      }
+    ]
+  }
+}

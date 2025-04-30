@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+.idea/
+**/.idea/
+__pycache__/
+*.pyc
+.DS_Store
+**/.DS_Store
+# Ignore everything in data/
+data/*
+nltk/*
+.venv/*
+
+!data/resources/
+!data/test_llama3/
+!patient
+!patients
