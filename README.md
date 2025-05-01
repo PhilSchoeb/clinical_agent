@@ -96,7 +96,7 @@ To train and evaluate the Doctor Agent, follow these steps using Google Colab:
    Get the model from this link: https://drive.google.com/file/d/172iru3T088JpbQJF-cX6xPkucguVoZnp
 
 2. Prepare the data 
-   Ensure all required data is uploaded to Google Drive, and mount the Drive in Colab notebook.
+   Ensure all required data is uploaded to Google Drive, and mount the Drive in Colab notebook. MedQA data and MedQA textbooks are availables in the repository at clinical_agent/experiment_data if needed.
 
 3. Choose a simulation script
    Go to clinical_agent/experiment_scripts/Simulation_scripts, select the simulation script for your model, and open it in Google Colab.
